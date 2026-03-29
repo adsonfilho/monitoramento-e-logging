@@ -1,0 +1,25 @@
+{
+  "name": "monitoramento-e-logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsonfilho/monitoramento-e-logging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adsonfilho/monitoramento-e-logging/issues"
+  },
+  "homepage": "https://github.com/adsonfilho/monitoramento-e-logging#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "prom-client": "^15.1.3",
+    "winston": "^3.19.0"
+  }
+}
